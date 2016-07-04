@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<!-- 논리적 클래스 만들기 -->
+<!-- make physical class -->
+<mapper namespace="com.IgibuU.model.mapper.MemberMapper">
+
+	<sql id="selectDefault">
+		SELECT memberId, name, regDate, memberType, gender, passwd
+		FROM member
+	</sql>
+	
+	<!-- 논리적 메서드 만들기 -->
+	<!-- make physical method -->
+	<insert id="insertMember" parameterType="Member">
+		INSERT INTO member
+		(memberId, name, memberType, gender, passwd)
+		VALUES
+		(#{memberId}, #{name}, #{memberType}, #{gender}, #{passwd})
+	</insert>
+	
+	<select id="selectAllMembers" resultType="Member">
+		SELECT *
+		FROM member
+	</select>
+	
+	<select id="selectMemberById"
+		parameterType="string" resultType="Member">			
+		<include refid="selectDefault" />
+		WHERE memberId = #{memberId}
+	</select>
+	
+	<select id="selectMemberByIdAndPasswd"
+		parameterType="hashMap" resultType="Member">
+		<include refid="selectDefault" />
+		WHERE memberId = #{memberId} AND passwd = #{passwd}
+	</select>
+	
+	<select id="updateMember" parameterType="Member">
+		UPDATE member
+		SET name = #{name}, passwd = #{passwd}, name = #{name}, address = #{address}, email = #{email}, postcode = #{postcode}
+		WHERE memberId = #{memberId}
+	</select>
+
+	<select id="deleteMember" parameterType="string">
+		UPDATE member
+		SET deleted = '1'
+		WHERE memberId = #{memberId}	
+	</select>
+	
+</mapper>

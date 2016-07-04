@@ -1,0 +1,131 @@
+package com.weeklyfarm.model.dto;
+
+import java.sql.Date;
+import java.util.List;
+
+import javax.validation.constraints.Pattern;
+
+import org.hibernate.validator.constraints.Email;
+import org.hibernate.validator.constraints.NotEmpty;
+
+
+public class Member {
+
+	@NotEmpty(message = "아이디를 입력해 주세요.")
+	@Pattern(regexp = "[A-Za-z0-9]{5,10}", message = "아이디는 영문 대소문자, 숫자 5글자 이상 10글자 이하")
+	private String memberId;
+
+	@NotEmpty(message = "닉네임을 입력해 주세요.")
+	@Pattern(regexp = "[A-Za-z0-9]{3,10}", message = "닉네임은 영문 대소문자, 숫자 3글자 이상 10글자 이하")
+	private String nickName;
+
+	@NotEmpty(message = "열쇠글을 입력해 주세요.")
+	@Pattern(regexp = "[A-Za-z0-9]{8,15}", message = "열쇠글은 영문 대소문자, 숫자 8글자 이상 15글자 이하")
+	private String passwd;
+
+	private String name;
+	private String postcode;
+	private String address;
+
+	@NotEmpty(message = "이메일을 입력해 주세요.")
+	@Email(message = "이메일 형식이 아닙니다.")
+	private String email;
+
+	@NotEmpty
+	@Pattern(regexp = "(member|admin){1}")
+	private String memberType;
+	private char deleted;
+	private Date regDate;
+	
+	private List<Member> members;
+	
+	
+	public String getMemberId() {
+		return memberId;
+	}
+
+	public void setMemberId(String memberId) {
+		this.memberId = memberId;
+	}
+
+	public String getNickName() {
+		return nickName;
+	}
+
+	public void setNickName(String nickName) {
+		this.nickName = nickName;
+	}
+
+	public String getPasswd() {
+		return passwd;
+	}
+
+	public void setPasswd(String passwd) {
+		this.passwd = passwd;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getPostcode() {
+		return postcode;
+	}
+
+	public void setPostcode(String postcode) {
+		this.postcode = postcode;
+	}
+
+	public String getAddress() {
+		return address;
+	}
+
+	public void setAddress(String address) {
+		this.address = address;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public String getMemberType() {
+		return memberType;
+	}
+
+	public void setMemberType(String memberType) {
+		this.memberType = memberType;
+	}
+
+	public char isDeleted() {
+		return deleted;
+	}
+
+	public void setDeleted(char deleted) {
+		this.deleted = deleted;
+	}
+
+	public Date getRegDate() {
+		return regDate;
+	}
+
+	public void setRegDate(Date regDate) {
+		this.regDate = regDate;
+	}
+
+	public List<Member> getMembers() {
+		return members;
+	}
+
+	public void setMembers(List<Member> members) {
+		this.members = members;
+	}
+
+}

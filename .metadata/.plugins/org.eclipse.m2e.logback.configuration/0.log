@@ -761,3 +761,499 @@ java.lang.NullPointerException: null
 2016-07-04 12:01:09,909 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2016-07-04 12:01:09,910 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-07-04 12:01:09,911 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:34:23,178 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:34:23,183 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:34:23,184 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:34:23,185 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:34:35,994 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:34:35,995 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:34:35,996 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:34:35,997 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:34:40,861 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:34:40,862 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:34:40,864 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:34:40,864 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:35:48,715 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:35:48,717 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:35:48,718 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:35:48,718 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:36:13,359 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:36:13,361 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:36:13,362 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:36:13,363 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:36:25,307 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:36:25,309 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:36:25,310 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:36:25,310 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:37:03,271 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:37:03,272 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:37:03,274 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:37:03,274 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:37:20,723 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:37:20,723 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 14:37:20,725 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:37:20,725 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:37:50,199 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:37:50,201 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 14:37:50,203 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:37:50,204 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:37:57,786 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:37:57,787 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 14:37:57,788 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:37:57,788 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:38:18,333 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:38:18,335 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:38:18,336 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:38:18,337 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:38:30,943 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:38:30,945 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 14:38:30,947 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:38:30,949 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:40:34,373 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:40:34,374 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:40:34,375 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:40:34,376 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:40:35,643 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:40:35,644 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:40:35,645 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:40:35,645 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:40:47,228 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:40:47,229 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:40:47,230 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:40:47,230 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:41:02,374 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:41:02,375 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:41:02,377 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:41:02,377 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:41:22,601 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:41:22,603 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:41:22,604 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:41:22,604 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:41:42,658 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:41:42,660 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:41:42,660 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:41:42,661 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:44:26,883 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:44:26,884 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:44:26,885 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:44:26,886 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:44:43,329 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:44:43,330 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:44:43,331 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:44:43,332 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:48:12,927 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:48:12,928 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:48:12,929 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:48:12,930 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:48:31,418 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:48:31,419 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:48:31,420 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:48:31,421 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:48:38,334 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:48:38,335 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 14:48:38,336 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:48:38,336 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:50:22,920 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:50:22,921 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-04 14:50:22,923 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:50:22,923 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:52:53,851 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:52:53,852 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-04 14:52:53,855 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:52:53,855 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:54:59,675 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:54:59,676 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 14:54:59,677 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:54:59,677 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 14:58:58,128 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:58:58,128 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 14:58:58,132 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 14:58:58,132 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:01:12,419 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:01:12,420 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:01:12,422 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:01:12,422 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:02:28,178 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:02:28,179 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:02:28,179 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:02:28,180 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:05:44,289 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:05:44,290 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:05:44,290 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:05:44,291 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:21:35,269 [Worker-71] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-04 15:21:35,522 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:21:36,251 [Worker-71] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/main/java
+2016-07-04 15:21:36,251 [Worker-71] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IgibuU/src/main/resources
+2016-07-04 15:21:36,252 [Worker-71] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/test/java
+2016-07-04 15:21:36,516 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for IgibuU
+2016-07-04 15:21:36,519 [Worker-71] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-07-04 15:21:37,330 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:21:37,331 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:21:37,339 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:21:37,339 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:21:37,340 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:21:37,340 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:21:37,343 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:25:53,247 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:25:53,249 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:25:53,250 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:25:53,251 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:25:57,786 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:25:57,787 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:25:57,788 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:25:57,789 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:26:34,102 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:26:34,103 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:26:34,104 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:26:34,105 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:26:37,888 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:26:37,888 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:26:37,889 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:26:37,889 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:27:25,231 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:27:25,232 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:27:25,232 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:27:25,233 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:30:54,365 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:30:54,367 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:30:54,369 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:30:54,369 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:32:43,017 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:32:43,019 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:32:43,020 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:32:43,020 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:32:45,381 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:32:45,382 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:32:45,383 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:32:45,383 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:32:52,996 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:32:52,998 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:32:53,000 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:32:53,001 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:32:58,538 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:32:58,539 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:32:58,540 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:32:58,541 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:33:00,182 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:00,183 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:33:00,185 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:00,185 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:33:04,572 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:04,574 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:33:04,575 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:04,575 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:33:09,421 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:09,423 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:33:09,423 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:09,424 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:33:15,716 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:15,717 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:33:15,718 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:15,719 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:33:33,354 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:33,355 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:33:33,360 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:33,361 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:33:55,468 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:55,469 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:33:55,470 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:55,471 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:33:58,930 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:58,932 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:33:58,933 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:33:58,933 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:34:12,870 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:12,871 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:34:12,872 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:12,872 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:34:25,166 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:25,167 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:34:25,168 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:25,169 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:34:35,604 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:35,605 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:34:35,606 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:35,606 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:34:42,126 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:42,127 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:34:42,128 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:42,128 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:34:44,432 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:44,434 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:34:44,435 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:34:44,435 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:35:05,568 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:35:05,570 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:35:05,571 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:35:05,572 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:35:06,713 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:35:06,714 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:35:06,715 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:35:06,715 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:38:54,617 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:38:54,617 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:38:54,618 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:38:54,618 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:39:18,098 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:39:18,098 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:39:18,099 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:39:18,099 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:42:05,083 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:42:05,150 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:42:05,271 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:42:05,720 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:42:05,764 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:42:05,766 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:42:05,767 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:42:05,767 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:42:05,767 [Worker-93] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:42:05,767 [Worker-93] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:42:05,772 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:42:05,831 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:42:07,658 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:42:07,660 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:42:07,667 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:42:07,667 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:43:23,639 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:43:24,240 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:24,241 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:43:24,242 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:24,243 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:43:24,243 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:43:24,243 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:43:24,246 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:25,747 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:25,749 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:43:25,755 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:25,756 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:43:28,100 [Worker-95] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:43:28,154 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:43:28,253 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:43:28,663 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:43:28,695 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:28,696 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:43:28,697 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:28,697 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:43:28,698 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:43:28,698 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:43:28,700 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:28,798 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:43:30,169 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:30,171 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:43:30,177 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:43:30,178 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:44:51,200 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:44:51,246 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:44:51,336 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:44:51,735 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:44:51,753 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:44:51,754 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:44:51,755 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:44:51,756 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:44:51,756 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:44:51,756 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:44:51,758 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:44:51,866 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:45:46,862 [Worker-98] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:45:48,131 [Worker-98] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/cn/guoyukun/jdbc/oracle-ojdbc6/11.2.0.3.0/oracle-ojdbc6-11.2.0.3.0.pom
+2016-07-04 15:45:48,137 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:45:48,838 [Worker-98] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/cn/guoyukun/jdbc/oracle-ojdbc6/11.2.0.3.0/oracle-ojdbc6-11.2.0.3.0.jar
+2016-07-04 15:45:48,949 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:45:49,382 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:45:49,415 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:45:49,417 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:45:49,418 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:45:49,418 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:45:49,418 [Worker-98] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:45:49,418 [Worker-98] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:45:49,421 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:45:49,532 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:45:50,875 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:45:50,877 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:45:50,877 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:45:50,878 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:46:03,606 [Worker-83] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-04 15:46:03,795 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:46:03,847 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:46:03,939 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:46:04,320 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:46:04,336 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/main/java
+2016-07-04 15:46:04,336 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IgibuU/src/main/resources
+2016-07-04 15:46:04,336 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/test/java
+2016-07-04 15:46:04,435 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:46:04,506 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:46:04,592 [Worker-83] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for IgibuU
+2016-07-04 15:46:04,596 [Worker-83] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-04 15:46:05,652 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:46:05,653 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:46:05,660 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:46:05,660 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:46:05,661 [Worker-85] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:46:05,661 [Worker-85] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:46:05,663 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:47:19,050 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:47:19,105 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:19,201 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:19,598 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:19,610 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:47:19,611 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:47:19,612 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:47:19,613 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:47:19,613 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:47:19,613 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:47:19,615 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:47:19,754 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:20,831 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:47:20,866 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:47:20,866 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:47:20,867 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:47:29,717 [Worker-102] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-04 15:47:29,906 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:47:29,952 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:30,040 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:30,431 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:30,452 [Worker-102] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/main/java
+2016-07-04 15:47:30,452 [Worker-102] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IgibuU/src/main/resources
+2016-07-04 15:47:30,453 [Worker-102] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/test/java
+2016-07-04 15:47:30,568 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:30,622 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-07-04 15:47:30,698 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for IgibuU
+2016-07-04 15:47:30,702 [Worker-102] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-04 15:47:31,828 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:47:31,829 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:47:31,836 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:47:31,836 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:47:31,837 [Worker-93] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:47:31,837 [Worker-93] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:47:31,839 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:48:19,522 [Worker-105] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:48:20,079 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:48:20,080 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:48:20,081 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:48:20,081 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:48:20,081 [Worker-105] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:48:20,081 [Worker-105] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:48:20,083 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:48:21,570 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:48:21,572 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:48:21,578 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:48:21,579 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:50:21,834 [Worker-103] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:50:21,882 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:21,970 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:22,371 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:22,388 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:50:22,389 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:50:22,390 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:50:22,391 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:50:22,391 [Worker-103] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:50:22,391 [Worker-103] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:50:22,393 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:50:22,473 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:23,826 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:50:23,828 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:50:23,834 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:50:23,834 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:50:29,867 [Worker-96] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-04 15:50:30,046 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:50:30,090 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:30,177 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:30,577 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:30,594 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/main/java
+2016-07-04 15:50:30,594 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IgibuU/src/main/resources
+2016-07-04 15:50:30,595 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/test/java
+2016-07-04 15:50:30,679 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:30,745 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2016-07-04 15:50:30,881 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for IgibuU
+2016-07-04 15:50:30,885 [Worker-96] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-07-04 15:50:31,855 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:50:31,856 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:50:31,863 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:50:31,863 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:50:31,864 [Worker-107] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:50:31,864 [Worker-107] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:50:31,866 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:52:03,215 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for IgibuU
+2016-07-04 15:52:03,482 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:52:03,482 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:52:03,486 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:52:03,487 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:52:03,487 [Worker-114] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:52:03,487 [Worker-114] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:52:03,492 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:54:59,349 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:54:59,351 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-04 15:54:59,353 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:54:59,353 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:55:34,424 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:55:34,424 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-04 15:55:34,426 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:55:34,426 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:58:15,929 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:IgibuU:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:58:16,072 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:16,285 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:16,576 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:16,850 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:16,851 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:58:16,852 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:16,853 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:58:16,853 [Worker-115] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:58:16,853 [Worker-115] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:58:16,855 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:18,637 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:18,845 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:18,846 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:58:18,854 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:18,855 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:58:39,740 [Worker-108] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-04 15:58:39,922 [Worker-108] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:IgibuU:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 15:58:40,029 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:40,194 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:40,471 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:40,650 [Worker-108] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/main/java
+2016-07-04 15:58:40,650 [Worker-108] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IgibuU/src/main/resources
+2016-07-04 15:58:40,650 [Worker-108] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgibuU/src/test/java
+2016-07-04 15:58:41,175 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:41,293 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for IgibuU
+2016-07-04 15:58:41,298 [Worker-108] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-07-04 15:58:42,416 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-07-04 15:58:42,627 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:42,628 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 15:58:42,633 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:42,634 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 15:58:42,634 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of IgibuU
+2016-07-04 15:58:42,634 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for IgibuU
+2016-07-04 15:58:42,636 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:47,707 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:47,708 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 15:58:47,709 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 15:58:47,709 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 16:01:06,345 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:01:06,346 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 16:01:06,347 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:01:06,347 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 16:03:51,256 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:03:51,256 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-04 16:03:51,258 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:03:51,258 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 16:04:32,765 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:04:32,766 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 16:04:32,767 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:04:32,768 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 16:06:46,718 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:06:46,719 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-04 16:06:46,719 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:06:46,720 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 16:07:18,628 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:07:18,629 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 16:07:18,630 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:07:18,630 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 16:07:50,641 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:07:50,642 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 16:07:50,642 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:07:50,643 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources
+2016-07-04 16:08:22,477 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:08:22,479 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-07-04 16:08:22,480 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 16:08:22,480 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\src\test\resources

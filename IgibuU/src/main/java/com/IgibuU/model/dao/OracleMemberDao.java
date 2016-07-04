@@ -52,16 +52,7 @@ public class OracleMemberDao implements MemberDao {
 		memberMapper.updateMember(member);		
 	}
 
-	@Override
-	public void deleteMember(String id) {
-		// TODO Auto-generated method stub
-		
-	}
 
-	/*@Override
-	public void deleteMember(String id) {
-		memberMapper.deleteMember(id);		
-	}	
-	*/
+	
 }
 

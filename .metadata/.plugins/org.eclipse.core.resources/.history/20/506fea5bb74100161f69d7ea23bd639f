@@ -36,11 +36,11 @@ public class HomeController {
 		System.out.println("in home");
 		Member member = new Member();
 		
-		member.setMemberId("a");
-		member.setMemberType("user");
-		member.setPasswd("a");
-		member.setGender("male");
-		member.setName("a");
+		member.setMemberId(memberId);
+		member.setMemberType(memberType);
+		member.setPasswd(passwd);
+		member.setGender(gender);
+		member.setName(name);
 		
 		memberService.insert(member);
 		return "home";

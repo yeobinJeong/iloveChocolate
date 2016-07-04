@@ -33,8 +33,33 @@ public class MemberController {
 	 * Simply selects the home view to render by returning its name.
 	 */
 	@RequestMapping(value = "register.action", method = RequestMethod.POST)
-	public void home(HttpServletRequest req, HttpServletResponse resp, Member member) {
+	public void registerPost(HttpServletRequest req, HttpServletResponse resp, Member member) {
 		
+		
+		System.out.println("in register");
+		member.setMemberId("www");
+		member.setName("gwg");
+		Gson gson = new Gson();
+		PrintWriter writer;
+		try {
+			writer = resp.getWriter();
+			resp.setContentType("text/plain;charset=utf-8");
+			String json = gson.toJson(member);
+			writer.println(json);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+	}
+	
+	@RequestMapping(value = "register.action", method = RequestMethod.GET)
+	public void registerGet(HttpServletRequest req, HttpServletResponse resp, Member member) {
+		
+		System.out.println("in register");
+		member.setMemberId("www");
+		member.setName("gwg");
 		Gson gson = new Gson();
 		PrintWriter writer;
 		try {

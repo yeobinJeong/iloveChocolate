@@ -1,0 +1,55 @@
+package com.IgibuU.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import com.IgibuU.model.dto.Member;
+import com.IgibuU.model.service.MemberService;
+import com.google.gson.Gson;
+
+/**
+ * Handles requests for the application home page.
+ */
+@Controller
+@RequestMapping(value = "/member/")
+public class MemberController {
+	
+	@Autowired
+	@Qualifier("memberService")
+	private MemberService memberService;
+	
+	/*private static final Logger logger = LoggerFactory.getLogger(MemberController.class);*/
+	
+	/**
+	 * Simply selects the home view to render by returning its name.
+	 */
+	@RequestMapping(value = "register.action", method = RequestMethod.POST)
+	public void home(HttpServletRequest req, HttpServletResponse resp, Member member) {
+		
+		member.setMemberId("www");
+		member.setName("gwg");
+		Gson gson = new Gson();
+		PrintWriter writer;
+		try {
+			writer = resp.getWriter();
+			resp.setContentType("text/plain;charset=utf-8");
+			String json = gson.toJson(member);
+			writer.println(json);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+	}
+	
+}

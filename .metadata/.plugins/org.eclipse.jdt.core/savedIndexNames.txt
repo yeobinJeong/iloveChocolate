@@ -37,7 +37,6 @@ INDEX VERSION 1.127+C:\Users\Administrator\Desktop\Android\IgibuU\.metadata\.plu
 3635251393.index
 4086484765.index
 128469139.index
-1047012171.index
 764076646.index
 3756216951.index
 1138456120.index

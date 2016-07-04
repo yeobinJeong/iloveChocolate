@@ -1,0 +1,9 @@
+2016-07-04 10:56:36,912 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.IgibuU:controller:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Desktop\Android\IgibuU\IgibuU\pom.xml.
+2016-07-04 10:56:44,032 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 10:56:44,046 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-04 10:56:44,051 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 10:56:44,052 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-04 10:56:54,972 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 10:56:54,976 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-04 10:56:54,978 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-04 10:56:54,979 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

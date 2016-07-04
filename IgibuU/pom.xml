@@ -21,7 +21,7 @@
 		</repository>
 	</repositories>
 	<dependencies>
-	
+
 		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -41,6 +41,14 @@
 			<version>${org.springframework-version}</version>
 		</dependency>
 
+
+		<!-- Gson -->
+
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.6.2</version>
+		</dependency>
 		<!-- AspectJ -->
 		<dependency>
 			<groupId>org.aspectj</groupId>
@@ -165,12 +173,12 @@
 
 		<!-- http://mvnrepository.com/artifact/org.springframework.social/spring-social-facebook -->
 		<dependency>
-		    <groupId>org.springframework.social</groupId>
-		    <artifactId>spring-social-facebook</artifactId>
-		    <version>2.0.3.RELEASE</version>
+			<groupId>org.springframework.social</groupId>
+			<artifactId>spring-social-facebook</artifactId>
+			<version>2.0.3.RELEASE</version>
 		</dependency>
-		
-		<!-- 스프링 유효성 검사 지원 라이브러리 -->		
+
+		<!-- 스프링 유효성 검사 지원 라이브러리 -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
